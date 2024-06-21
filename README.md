@@ -1,2 +1,2 @@
 # CS-2500-234-Tree
-This project revolves around a 234 tree. We created our own 234 tree, linked list, link stack, and tree searching/sorting functions.
+This project revolves around a 234 tree. We created our own 234 tree, linked list, link stack, and tree searching/sorting functions. I don't believe that tree1.py was included in the final submission; this project was created over half a year ago. Incredibly vital and enjoyable project that really expanded my understanding of coding and is what allowed me to finally grasp the advanced topics covered in every Datastructure and Algorithms course. 
